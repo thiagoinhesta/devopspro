@@ -8,3 +8,4 @@ nothing to commit, working tree clean
 Nova linha 4 de novo.
 [main 83dae0f] Nova linha pela quarta  vez no main .txt.
  1 file changed, 3 insertions(+)
+nova linha local fetch.
